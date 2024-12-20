@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generated file. This file is used by SDK to show example inside Welcome screen. It is not the part of the example. -->
+<instructionals module="Aurora OS Demos">
+ <examples>
+  <example projectPath="ru.auroraos.ApplicationTemplate.pro" imageUrl="C:/Users/tolya/AppData/Roaming/AuroraOS-SDK-5.1.2.10/QtCreator\Aurora OS Demos\ApplicationTemplate\example-icon.png" name="Application Template">
+   <description><![CDATA[The project provides a template for Aurora OS applications]]></description>
+   <tags>AuroraOS,C++,Qt,Qt Quick,example,qml,template</tags>
+   <platforms>Mer</platforms>
+   <preferredFeatures>Mer.Wizard.Feature.Emulator</preferredFeatures>
+   <fileToOpen>/qml/ApplicationTemplate.qml</fileToOpen>
+  </example>
+ </examples>
+</instructionals>
