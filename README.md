@@ -14,11 +14,11 @@
 
 ## Приложение
 #### Заглавный экран с основным графом
-![map2](https://github.com/user-attachments/assets/346074ac-433a-4048-9288-2aa662a9ebe5)
+<p align="center">![map2](https://github.com/user-attachments/assets/346074ac-433a-4048-9288-2aa662a9ebe5)</p>
 
 
 #### Побочные страницы с расписанием
-![map1](https://github.com/user-attachments/assets/e9d2ac90-8d36-4c13-ac24-617692cb90a5)
+<p align="center">![map1](https://github.com/user-attachments/assets/e9d2ac90-8d36-4c13-ac24-617692cb90a5)</p>
 
 
 
