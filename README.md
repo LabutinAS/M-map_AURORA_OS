@@ -14,15 +14,13 @@
 
 ## Приложение
 <p align="center">
-#### Заглавный экран с основным графом
-</p> 
-<p align="center">
+<h4>Заглавный экран с основным графом</h4>
+
+ 
   <img src="https://github.com/user-attachments/assets/346074ac-433a-4048-9288-2aa662a9ebe5" alt="Карта метро" />
-</p>
 
-
-#### Побочные страницы с расписанием
-<p align="center"> 
+  
+<h4>Побочные страницы с расписанием</h4>
  <img src="https://github.com/user-attachments/assets/e9d2ac90-8d36-4c13-ac24-617692cb90a5" alt="Расписание" />
 </p>
 
